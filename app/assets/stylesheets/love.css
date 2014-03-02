@@ -1,0 +1,162 @@
+.header {
+	width: 100%;
+	height: 100px;
+}
+.ourstory{
+	float: left;
+	width: 20%;
+	text-align: center;
+	
+	margin-top: 30px;
+	margin-left: 30px
+}
+.photo{
+	float: left;
+	width: 20%;
+	text-align: center;
+	margin-top: 30px;
+	
+}
+.logo{
+	float:left;
+	width: 16%;
+	height: 80px;
+	margin-left:10px;
+	
+
+}
+.homework{
+	float: left;
+	width: 20%;
+	text-align: center;
+	margin-top: 30px;
+	
+}
+.list{
+	float: left;
+	width: 20%;
+	text-align: center;
+	margin-top: 30px;
+}
+.storytitle{
+	padding-top: 120px;
+	text-align: center;
+	font-size: 20px;
+}
+.story{
+	padding-top: 20px;
+	padding-right: 200px;
+	padding-left: 220px;
+	font-size: 25px;
+	text-align: center;
+}
+.homeworkpage{
+	width: 100%;
+	height:500px;
+}
+.wikilogo{
+	float: left;
+	margin-left: 20px;
+	width: 25%;
+	height: 345px;
+
+}
+.dictionarylogo{
+	width: 31.5%;
+	height: 345px;
+	float: left;
+	padding-top: 130px;
+	padding-left: 10px;
+
+}
+.taivslogo{
+	width: 300px;
+	height: 345px;
+	float: left;
+	padding-left: 20px;
+
+}
+.fishlogo{
+	width: 230px;
+	height: 345px;
+
+	float: left;
+	padding-top: 120px;
+	padding-left: 30px;
+}
+.googletranslation{
+	padding-left: 100px;
+	padding-top: 50px;
+	width: 340px;
+	height: 200px;
+
+	float: left;
+}
+.evernotelogo{
+ width: 230px;
+ height: 200px;
+ float: left;
+
+ 
+}
+.dropboxlogo{
+	width: 250px;
+	height: 200px;
+	float: left;
+	padding-left: 30px;
+
+}
+.taivsclass{
+	width: 200px;
+	height:200px;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 100px;
+
+}
+.indexlogo{
+	width: 250px;
+	height: 200px;
+	float: left;
+	padding-left: 20px;
+	padding-top: 30px;
+
+}
+.photobackground{
+	padding-top: 150px;
+	padding-left: 350px;
+
+}
+.phototype{
+	text-align: center;
+	font-size: 30px;
+
+}
+.photobackindex{
+	text-align: center;
+	font-size: 30px;
+ 	padding-top: 20px;
+}
+
+.googlecalender{
+	float: left;
+	padding-top: 80px;
+	width: 700px;
+	height: 500px;
+}
+.schedule{
+	width: 300px;
+	height: 500px;
+	padding-top: 80px;
+ 
+  	float: left;
+   
+}
+
+.first{
+	background-color:yellow; 
+}
+body{
+	background-image: url(background.png);
+}
