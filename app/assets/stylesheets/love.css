@@ -187,6 +187,29 @@ td{
 	padding-left: 900px;
 	font-size:20px;
 }
+.month{
+	float: left;
+	padding-left: 20px;
+}
+.timenow{
+	text-align: center;
+}
+
+.livemessage{
+	width: 20%;
+	padding-top:10px;
+	font-size: 15px;
+	padding-left: 80px;
+}
+.indeximage{
+	width: 940px;
+	padding-top: 10px;
+	float: left;
+	
+}
+.hello{
+	padding-top: 80px;
+}
 body{
 	background-image: url(background.png);
 }
