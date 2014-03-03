@@ -142,7 +142,7 @@
 .googlecalender{
 	float: left;
 	padding-top: 80px;
-	width: 700px;
+	width:600px;
 	height: 500px;
 }
 .schedule{
@@ -156,6 +156,36 @@
 
 .first{
 	background-color:yellow; 
+}
+
+table{
+	width: 650px;
+	height: 500px;
+	border: 1px;
+	padding-top: 200px;
+}
+tr{
+	float: left;
+	padding-left: 100px;
+	height: 50px;
+	width: 96%;
+	
+	
+}
+td{
+	text-align: center;
+	font-size: 15px;
+	height: 50px;
+	float: left;
+	width: 80px;
+	background-color: #FFFFFF
+}
+.padding{
+	padding-top: 80px;
+}
+.backtoindex{
+	padding-left: 900px;
+	font-size:20px;
 }
 body{
 	background-image: url(background.png);
